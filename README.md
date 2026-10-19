@@ -1,4 +1,4 @@
-# CodeAlpha_Project_Name
+# CodeAlpha_Project
 #Task-1:-Fibonocci sequence generator
 
 The function fibonocci(n) generates the Fibonacci sequence up to n terms. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, starting from 0 and 1.
